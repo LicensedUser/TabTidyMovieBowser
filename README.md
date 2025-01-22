@@ -1,5 +1,7 @@
 START IN CONSOLE: node TabTidyMovieBowser.js
 
+![Screenshot from 2025-01-22 13-36-01](https://github.com/user-attachments/assets/e5c2783e-8e64-4b15-ad65-8f389446549e)
+
 This script automates a Chrome browser session using Puppeteer, with the following functionalities:
 
     Browser Setup:
