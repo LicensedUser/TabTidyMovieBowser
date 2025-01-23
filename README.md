@@ -32,3 +32,6 @@ This script automates a Chrome browser session using Puppeteer, with the followi
 
 Use Case
 This script is ideal for automating browser interactions with persistent states, such as frequent NewTABS\NewWindows\ReddirectAD's\POP-Up's heavily display in these websites.
+
+
+![Screenshot from 2025-01-23 02-31-16](https://github.com/user-attachments/assets/34e8eda4-9776-4155-ac9a-1ffd07ac0c8f)
