@@ -11,7 +11,7 @@ This script automates a Chrome browser session using Puppeteer, with the followi
 
     Opening the Initial Page:
         A new browser tab is opened, and it navigates to the URL https://8filmai.dad.
-        The viewport of the tab is customized (set to zero dimensions), making its content invisible.
+        The viewport of the tab is customized (set to zero dimensions), making its content FullScreen.
 
     Tab Management:
         The script retrieves all open tabs. If there are multiple tabs, it closes the first unused one to streamline the session.
