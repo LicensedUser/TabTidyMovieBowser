@@ -79,7 +79,7 @@ const path = require('path');
     });
   };
 
-  // Call function to add a bookmark
+  // Call function to add a bookmarks
   addBookmark();
 
   // Your existing code for managing tabs and closing unused ones
